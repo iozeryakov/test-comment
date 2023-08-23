@@ -8,6 +8,9 @@ Cоздать базу данных `comments`
 Папку `php-mysql`перенести в OpenServer в папку `domains\localhost`
 
 
+Изменить данные для подключения к бд в файле `php-mysql\database.php`(если нужно)
+
+
 Перейти в папку `front`
 
 
