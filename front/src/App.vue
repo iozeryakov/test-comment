@@ -159,10 +159,7 @@ export default {
       ) {
         this.showMessage("Решите капчу!", true);
         this.red.captcha = true;
-      } else {
-        this.red.textarea = true;
-        this.red.input = true;
-      }
+      } 
     },
     deleteComment(id) {
       this.loading = true;
